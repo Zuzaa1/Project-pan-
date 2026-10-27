@@ -1,0 +1,10 @@
+{
+  "name": "Project Pan — dziennik kosmetyków",
+  "short_name": "Project Pan",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f3ef",
+  "theme_color": "#f7f0eb",
+  "description": "Lokalny dziennik zużywania kosmetyków"
+}
